@@ -12,7 +12,7 @@ Sorties :
 
 LED1 : La LED1 s'allume ou s'éteint selon les requêtes HTTP.|
 LED2 : La LED2 s'allume ou s'éteint selon les requêtes HTTP.|
-États :
+                      États :
 
 Connexion Wi-Fi : Le processus où l'ESP32 se connecte au réseau Wi-Fi.|
 Serveur Web prêt : Le serveur HTTP est lancé et prêt à recevoir des requêtes.|
